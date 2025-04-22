@@ -1,6 +1,5 @@
 package CaesarCipher;
 import java.util.ArrayList;
-
 public class Database {
     private static final int MAX_ENTRIES = 2;
     private ArrayList<String> encryptedData;
